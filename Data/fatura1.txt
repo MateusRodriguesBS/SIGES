@@ -1,0 +1,86 @@
+2|Psicólogo1|Consulta|350|10:00|
+1|1|Mateus Rodrigues1|Mateus Rodrigues1
+2|Psiquatria1|Consulta|1000|12:00|
+1|1|Mateus Rodrigues1|Selecione um Produto!
+2|Urologista|Consulta|300|15:00|
+1|1|Mateus Rodrigues1|Selecione um Produto!
+2|Clínico Geral1|Consulta|400|13:00|
+1|1|Mateus Rodrigues1|Selecione um Produto!
+2|Psiquatria1|Consulta|1000|12:00|
+1|2|lucas rodrigues barroso|Selecione um Produto!
+2|Psiquatria1|Consulta|1000|12:00|
+1|3|Mateus Rodrigues1|Selecione um Produto!
+2|Psiquatria1|Consulta|1000|12:00|
+1|1|Mateus Rodrigues1|Selecione um Produto!
+2|Clínico Geral1|Consulta|400|13:00|
+1|1|Mateus Rodrigues1|Selecione um Produto!
+2|Psicólogo1|Consulta|350|10:00|
+1|2|lucas rodrigues barroso|Selecione um Produto!
+2|Psicólogo1|Consulta|350|10:00|
+1|3|lucas rodrigues barroso|Selecione um Produto!
+2|Psiquatria1|Consulta|1000|12:00|
+1|1|lucas rodrigues barroso|Selecione um Produto!
+2|Psiquatria1|Consulta|1000|12:00|
+1|1|lucas rodrigues barroso|Selecione um Produto!
+2|Psicólogo1|Consulta|350|10:00|
+1|1|Mateus Rodrigues1|Selecione um Produto!
+2|Psiquatria1|Consulta|1000|12:00|
+1|1|lucas rodrigues barroso|Selecione um Produto!
+2|Psicólogo1|Consulta|350|10:00|
+1|1|Mateus Rodrigues1|Selecione um Produto!
+2|Psiquatria1|Consulta|1000|12:00|
+1|1|Mateus Rodrigues1|Selecione um Produto!
+2|Psiquatria1|Consulta|1000|12:00|
+1|0|Mateus Rodrigues1|Selecione um Produto!
+2|Clínico Geral1|Consulta|400|13:00|
+1|0|Mateus Rodrigues1|Selecione um Produto!
+2|HC|Exame|26|12:00|
+1|0|Mateus Rodrigues1|Selecione um Produto!
+2|Clínico Geral1|Consulta|400|13:00|
+2|Urologista|Consulta|300|15:00|
+2|Clínico Geral1|Consulta|400|13:00|
+1|0|Mateus Rodrigues1|Selecione um Produto!
+2|HC|Exame|26|12:00|
+2|Psiquatria1|Consulta|1000|12:00|
+1|0|Mateus Rodrigues1|Selecione um Produto!
+2|Clínico Geral1|Consulta|400|13:00|
+1|0|lucas rodrigues barroso|Selecione um Produto!
+2|Clínico Geral1|Consulta|400|13:00|
+2|Clínico Geral1|Consulta|400|13:00|
+1|0|lucas rodrigues barroso|Selecione um Produto!
+2|Psiquatria1|Consulta|1000|12:00|
+2|HC|Exame|26|12:00|
+2|Psiquatria1|Consulta|1000|12:00|
+2|Clínico Geral1|Consulta|400|13:00|
+2|HC|Exame|26|12:00|
+2|Psiquatria1|Consulta|1000|12:00|
+1|0|Mateus Rodrigues1|Psicólogo1
+2|Psiquatria1|Consulta|1000|12:00|
+2|Clínico Geral1|Consulta|400|13:00|
+2|HC|Exame|26|12:00|
+2|Urologista|Consulta|300|15:00|
+2|Psicólogo1|Consulta|350|10:00|
+1|0|Mateus Rodrigues1|Selecione um Produto!
+2|Psicólogo1|Consulta|350|10:00|
+1|0|Mateus Rodrigues1|Selecione um Produto!
+2|Psicólogo1|Consulta|350|10:00|
+1|0|Mateus Rodrigues1|Selecione um Produto!
+2|Psicólogo1|Consulta|350|10:00|
+2|Psicólogo1|Consulta|350|10:00|
+1|0|Mateus Rodrigues1|Selecione um Produto!
+2|Psicólogo1|Consulta|350|10:00|
+1|0|Mateus Rodrigues1|Selecione um Produto!
+2|Psicólogo1|Consulta|350|10:00|
+1|1|Mateus Rodrigues1|Selecione um Produto!
+2|Psicólogo1|Consulta|350|10:00|
+1|2|lucas rodrigues barroso|Selecione um Produto!
+2|Psicólogo1|Consulta|350|10:00|
+2|Psiquatria1|Consulta|1000|12:00|
+1|1|daniel|Selecione um Produto!
+2|Psiquatria1|Consulta|1000|12:00|
+1|1|LUIS HENRIQUE |Selecione um Produto!
+2|HC|Exame|26|12:00|
+2|Psa|exame|23|19:00|
+1|2|Mateus Rodrigues1|Selecione um Produto!
+2|HC|Exame|26|12:00|
+2|Psa|exame|23|19:00|

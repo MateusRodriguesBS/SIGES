@@ -1,0 +1,4 @@
+1|1|Mateus Rodrigues1|32924173|1|Rua Professor Teodorico|1998/10/03|
+2|3|lucas rodrigues barroso|8532924173|2|rua professor teodorico 914|1990/11/24|
+3|1|daniel|85329241|1|rua_professor|2021/10/24|
+4|1|LUIS HENRIQUE |853000000|1|RUA CARLOS|2021/10/20|

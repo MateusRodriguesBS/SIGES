@@ -1,0 +1,6 @@
+Psicólogo1|Consulta|350|0|10:00
+Psiquatria1|Consulta|1000|0|12:00
+Clínico Geral1|Consulta|400|0|13:00
+HC|Exame|26|1|12:00
+Urologista|Consulta|300|2|15:00
+Psa|exame|23|1|19:00
